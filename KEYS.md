@@ -51,7 +51,7 @@ git branch -M main
 ```
 
 ```
-git remote add origin https://github.com/bahodir2110/bahodir2110-.git
+git remote add origin https://github.com/bahodir2110/bahodir2110.git
 ```
 
 ```
